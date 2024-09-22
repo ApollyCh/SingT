@@ -56,9 +56,9 @@ learners, and anyone exploring music from different cultures.
 ## Team
 
 | Name                   | Innomail                          | Role                        |
-| ---------------------- | --------------------------------- | --------------------------- |
+|------------------------| --------------------------------- | --------------------------- |
 | Apollinaria Chernikova | a.chernikova@innopolis.university | Data Scientist, ML Engineer |
-| Egor Machev            | e.machnev@innopolis.university    | Data Engineer, MLOps        |
+| Egor Machnev           | e.machnev@innopolis.university    | Data Engineer, MLOps        |
 
 ## Technology Stack
 
